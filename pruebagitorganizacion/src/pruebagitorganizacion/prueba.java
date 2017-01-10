@@ -8,7 +8,6 @@ public class prueba {
 		Scanner teclado=new Scanner(System.in);
 		System.out.println("Escribir un número");
 		numero=teclado.nextInt();
-		System.out.println("El cuadrado del número"+numero+"es: "+numero*numero);
 	}
 }
 
